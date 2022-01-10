@@ -7,14 +7,14 @@ declare -a BASH_ARGV=()
 declare -A BASH_CMDS=([rm]="/bin/rm" [mkdir]="/bin/mkdir" )
 declare -- BASH_COMMAND="git add ."
 declare -a BASH_COMPLETION_VERSINFO=([0]="2" [1]="8")
-declare -a BASH_LINENO=([0]="18")
+declare -a BASH_LINENO=([0]="27")
 declare -ar BASH_REMATCH=()
 declare -a BASH_SOURCE=([0]="/home/ubuntu/.bashrc")
 declare -- BASH_SUBSHELL="0"
 declare -ar BASH_VERSINFO=([0]="4" [1]="4" [2]="20" [3]="1" [4]="release" [5]="x86_64-pc-linux-gnu")
 declare -- BASH_VERSION="4.4.20(1)-release"
 declare -x BROWSER="/usr/local/bin/paizacloud-open-browser"
-declare -- COLUMNS="219"
+declare -- COLUMNS="227"
 declare -- COMP_WORDBREAKS=" 	
 \"'><=;|&(:"
 declare -a DIRSTACK=([0]="~")

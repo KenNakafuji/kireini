@@ -476,3 +476,12 @@ ssh -T git@github.com
 cd home
 cd
 git init
+git add .
+git commit -m "初コミット"
+git remote add origin git@github.com:KenNakafuji/kireini.git
+git remote rm origin
+git remote add origin git@github.com:KenNakafuji/kireini.git
+git push -u origin master
+php artisan serve
+git pull
+git status
