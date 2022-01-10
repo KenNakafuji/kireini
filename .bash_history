@@ -485,3 +485,25 @@ git push -u origin master
 php artisan serve
 git pull
 git status
+git add .
+git commit
+git push
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/gx45owtbczc/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/mebss1p0vx/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/dq91w34a946/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/whsop22a7h/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/wt66yjyd8ek/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/gx45owtbczc/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/dq91w34a946/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/mebss1p0vx/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/whsop22a7h/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/wt66yjyd8ek/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/dq91w34a946/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/mebss1p0vx/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/gx45owtbczc/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/whsop22a7h/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/wt66yjyd8ek/vars.txt) && cd ${PWD}
+cd
+pwd
+git pull
+git status
