@@ -527,3 +527,14 @@ source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-ol
 ssh kireini@kireini.sakura.ne.jp
 pwd
 git add.
+git add .
+git commit -m "4回目コミット"
+git push
+brew tap heroku/brew && brew install heroku
+npm install -g heroku
+heroku --version
+heroku login
+heroku login --interactive
+pwd
+touch Procfile
+vi Procfile
