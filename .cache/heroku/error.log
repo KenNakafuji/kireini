@@ -1,0 +1,91 @@
+2022-01-11T16:10:09.882Z Error: Missing required flag:
+2022-01-11T16:10:09.882Z  -a, --app APP  app to run command against
+2022-01-11T16:10:09.882Z See more help with --help
+2022-01-11T16:10:09.882Z     at validateFlags (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:72:23)
+2022-01-11T16:10:09.882Z     at Object.validate (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:80:5)
+2022-01-11T16:10:09.882Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-11T16:10:09.882Z     at V5.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T16:10:09.882Z     at V5.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/plugin-legacy/lib/index.js:117:52)
+2022-01-11T16:10:09.882Z     at V5._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T16:12:08.635Z Error: Missing required flag:
+2022-01-11T16:12:08.635Z  -a, --app APP  app to run command against
+2022-01-11T16:12:08.635Z See more help with --help
+2022-01-11T16:12:08.635Z     at validateFlags (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:72:23)
+2022-01-11T16:12:08.635Z     at Object.validate (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:80:5)
+2022-01-11T16:12:08.635Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-11T16:12:08.635Z     at V5.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T16:12:08.635Z     at V5.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/plugin-legacy/lib/index.js:117:52)
+2022-01-11T16:12:08.635Z     at V5._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T16:12:16.631Z Error: Missing required flag:
+2022-01-11T16:12:16.631Z  -a, --app APP  app to run command against
+2022-01-11T16:12:16.631Z See more help with --help
+2022-01-11T16:12:16.631Z     at validateFlags (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:72:23)
+2022-01-11T16:12:16.631Z     at Object.validate (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:80:5)
+2022-01-11T16:12:16.631Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-11T16:12:16.631Z     at V5.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T16:12:16.631Z     at V5.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/plugin-legacy/lib/index.js:117:52)
+2022-01-11T16:12:16.631Z     at V5._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T16:12:42.998Z Error: Missing required flag:
+2022-01-11T16:12:42.998Z  -a, --app APP  app to run command against
+2022-01-11T16:12:42.998Z See more help with --help
+2022-01-11T16:12:42.998Z     at validateFlags (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:72:23)
+2022-01-11T16:12:42.998Z     at Object.validate (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:80:5)
+2022-01-11T16:12:42.998Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-11T16:12:42.998Z     at ConfigIndex.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T16:12:42.998Z     at ConfigIndex.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/plugin-config/lib/commands/config/index.js:11:32)
+2022-01-11T16:12:42.998Z     at ConfigIndex._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T16:13:53.893Z Error: Missing required flag:
+2022-01-11T16:13:53.893Z  -a, --app APP  app to run command against
+2022-01-11T16:13:53.893Z See more help with --help
+2022-01-11T16:13:53.893Z     at validateFlags (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:72:23)
+2022-01-11T16:13:53.893Z     at Object.validate (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:80:5)
+2022-01-11T16:13:53.893Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-11T16:13:53.894Z     at V5.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T16:13:53.894Z     at V5.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/plugin-legacy/lib/index.js:117:52)
+2022-01-11T16:13:53.894Z     at V5._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T16:14:09.663Z Error: Invalid credentials provided.
+2022-01-11T16:14:09.663Z Error ID: unauthorized
+2022-01-11T16:14:09.663Z     at Login.login (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/login.js:77:19)
+2022-01-11T16:14:29.227Z Error: Missing required flag:
+2022-01-11T16:14:29.227Z  -a, --app APP  app to run command against
+2022-01-11T16:14:29.227Z See more help with --help
+2022-01-11T16:14:29.227Z     at validateFlags (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:72:23)
+2022-01-11T16:14:29.227Z     at Object.validate (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:80:5)
+2022-01-11T16:14:29.227Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-11T16:14:29.227Z     at ConfigIndex.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T16:14:29.227Z     at ConfigIndex.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/plugin-config/lib/commands/config/index.js:11:32)
+2022-01-11T16:14:29.227Z     at ConfigIndex._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T16:17:04.154Z Error: Missing required flag:
+2022-01-11T16:17:04.154Z  -a, --app APP  app to run command against
+2022-01-11T16:17:04.154Z See more help with --help
+2022-01-11T16:17:04.154Z     at validateFlags (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:72:23)
+2022-01-11T16:17:04.154Z     at Object.validate (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/validate.js:80:5)
+2022-01-11T16:17:04.154Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:28:7)
+2022-01-11T16:17:04.154Z     at ConfigIndex.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T16:17:04.154Z     at ConfigIndex.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/plugin-config/lib/commands/config/index.js:11:32)
+2022-01-11T16:17:04.154Z     at ConfigIndex._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T16:20:31.166Z Error: The requested API endpoint was not found. Are you using the right HTTP verb (i.e. `GET` vs. `POST`), and did you specify your intended version with the `Accept` header?
+2022-01-11T16:20:31.166Z Error ID: not_found
+2022-01-11T16:20:31.166Z     at Function.request (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/api-client.js:109:27)
+2022-01-11T16:58:47.989Z Error: Invalid credentials provided.
+2022-01-11T16:58:47.989Z Error ID: unauthorized
+2022-01-11T16:58:47.989Z     at Login.login (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/login.js:77:19)
+2022-01-11T16:59:00.368Z Error: Invalid credentials provided.
+2022-01-11T16:59:00.368Z Error ID: unauthorized
+2022-01-11T16:59:00.368Z     at Login.login (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/login.js:77:19)
+2022-01-11T16:59:15.391Z Error: Invalid credentials provided.
+2022-01-11T16:59:15.391Z Error ID: unauthorized
+2022-01-11T16:59:15.391Z     at Login.login (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/login.js:77:19)
+2022-01-11T17:00:44.097Z Error: Invalid credentials provided.
+2022-01-11T17:00:44.097Z Error ID: unauthorized
+2022-01-11T17:00:44.097Z     at Login.login (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/login.js:77:19)
+2022-01-11T17:26:17.251Z Error: Flag --app expects a value
+2022-01-11T17:26:17.251Z     at parseFlag (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/parse.js:78:27)
+2022-01-11T17:26:17.251Z     at Parser.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/parse.js:100:21)
+2022-01-11T17:26:17.251Z     at Object.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/parser/lib/index.js:27:27)
+2022-01-11T17:26:17.251Z     at Run.parse (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:83:41)
+2022-01-11T17:26:17.251Z     at Run.run (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/plugin-run/lib/commands/run/index.js:12:38)
+2022-01-11T17:26:17.251Z     at Run._run (~/.npm-packages/lib/node_modules/heroku/node_modules/@oclif/command/lib/command.js:44:31)
+2022-01-11T17:26:30.024Z Error: You do not have access to the app my-laravel-project-heroku.
+2022-01-11T17:26:30.024Z Error ID: forbidden
+2022-01-11T17:26:30.024Z     at Function.request (~/.npm-packages/lib/node_modules/heroku/node_modules/@heroku-cli/command/lib/api-client.js:109:27)

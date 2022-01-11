@@ -538,3 +538,85 @@ heroku login --interactive
 pwd
 touch Procfile
 vi Procfile
+git add -A .
+git commit -m "herokuコミット"
+git push heroku master
+vim .git/config
+git push heroku master
+vim .git/config
+git push heroku master
+vim .git/config
+git push heroku master
+heroku login
+heroku login --interactive
+heroku addons:create heroku-postgresql:hobby-dev
+heroku pg:wait
+heroku config
+heroku pg:wait
+heroku login --interactive
+heroku config
+git remote -v
+heroku config | grep HEROKU_APP_NAME
+heroku git:remote -a kireini
+heroku git:remote -a git@github.com:KenNakafuji/kireini.git
+heroku config
+heroku config:get DATABASE_URL
+heroku config:set DB_HOST=hostname
+heroku config:set DB_HOST=KenNakafuji
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/whsop22a7h/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/dq91w34a946/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/0q6yxkqiz78b/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/wt66yjyd8ek/vars.txt) && cd ${PWD}
+heroku pg:psql DATABASE_URL
+heroku run php artisan migrate --seed
+heroku run php artisan migrate:refresh --seed
+                                  source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/whsop22a7h/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/dq91w34a946/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/0q6yxkqiz78b/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/wt66yjyd8ek/vars.txt) && cd ${PWD}
+heroku run php artisan migrate --seed
+heroku run php artisan migrate
+config/app
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/dq91w34a946/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/whsop22a7h/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/0q6yxkqiz78b/vars.txt) && cd ${PWD}
+source <(egrep -v 'declare -x TMUX|declare -.?r ' /home/ubuntu/.tmux/sessions-old/wt66yjyd8ek/vars.txt) && cd ${PWD}
+heroku run rails db:migrate:status
+heroku run kireini  db:migrate:status
+heroku run php  db:migrate:status
+heroku run bash
+pwd
+heroku login --interactive
+ssh kireini@kireini.sakura.ne.jp
+heroku login
+heroku login --interactive
+eroku run php artisan migrate --seed
+heroku run php artisan migrate --seed
+composer update
+heroku open
+composer -V
+php artisan --version
+composer self-update --2
+composer -V
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === '756890a4488ce9024fc62c56153228907f1545c228516cbf63f885e036d37e9a59d27d63f46af1d4d07ee0f76181c7d3') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+ls
+php composer.phar
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === '756890a4488ce9024fc62c56153228907f1545c228516cbf63f885e036d37e9a59d27d63f46af1d4d07ee0f76181c7d3') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+heroku open
+php -r "copy（ 'https://getcomposer.org/installer'、'composer-setup.php'）;"
+php -r "if（hash_file（ 'sha384'、 'composer-setup.php'）=== '906a84df04cea2aa72f40b5f787e49f22d4c2f19492ac310e8cba5b96ac8b64115ac402c8cba5b96ac8b64115ac402c8cd292b8a03482574915d1a8'）{echo ' php '）;} echo PHP_EOL; "
+phpcomposer-setup.php
+php -r "unlink（ 'composer-setup.php'）;"
+sudo mv composer.phar / usr / local / bin / composer
+php composer-setup.php --install-dir=bin
+php composer-setup.php --version=1.0.0-alpha8
+heroku run "php artisan migrate" -a 
+heroku run "php artisan migrate" -a my-laravel-project-heroku 
+heroku run "php artisan migrate" -a kireini
+git init

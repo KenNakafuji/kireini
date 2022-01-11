@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1641916739,,"wq"
+|2,0,1641917238,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,120 @@
 # Registers:
 
 # File marks:
-'0  1  43  ~/Procfile
-|4,48,1,43,1641916739,"~/Procfile"
-'1  5  27  ~/.ssh/config
-|4,49,5,27,1641801246,"~/.ssh/config"
-'2  2  61  ~/.ssh/config
-|4,50,2,61,1641789943,"~/.ssh/config"
-'3  4  29  ~/.ssh/config
-|4,51,4,29,1641789943,"~/.ssh/config"
-'4  2  124  ~/.ssh/config
-|4,52,2,124,1641789885,"~/.ssh/config"
-'5  2  124  ~/.ssh/config
-|4,53,2,124,1641789885,"~/.ssh/config"
-'6  5  9  ~/.ssh/config
-|4,54,5,9,1641789885,"~/.ssh/config"
-'7  5  9  ~/.ssh/config
-|4,55,5,9,1641789885,"~/.ssh/config"
-'8  2  69  ~/.ssh/config
-|4,56,2,69,1641785439,"~/.ssh/config"
-'9  2  124  ~/.ssh/config
-|4,57,2,124,1641785439,"~/.ssh/config"
+'0  13  46  ~/.git/config
+|4,48,13,46,1641917238,"~/.git/config"
+'1  13  50  ~/.git/config
+|4,49,13,50,1641917117,"~/.git/config"
+'2  14  47  ~/.git/config
+|4,50,14,47,1641916937,"~/.git/config"
+'3  14  47  ~/.git/config
+|4,51,14,47,1641916937,"~/.git/config"
+'4  14  47  ~/.git/config
+|4,52,14,47,1641916937,"~/.git/config"
+'5  14  47  ~/.git/config
+|4,53,14,47,1641916937,"~/.git/config"
+'6  1  43  ~/Procfile
+|4,54,1,43,1641916739,"~/Procfile"
+'7  5  27  ~/.ssh/config
+|4,55,5,27,1641801246,"~/.ssh/config"
+'8  2  61  ~/.ssh/config
+|4,56,2,61,1641789943,"~/.ssh/config"
+'9  4  29  ~/.ssh/config
+|4,57,4,29,1641789943,"~/.ssh/config"
 
 # Jumplist (newest first):
+-'  13  46  ~/.git/config
+|4,39,13,46,1641917238,"~/.git/config"
+-'  13  50  ~/.git/config
+|4,39,13,50,1641917117,"~/.git/config"
+-'  14  47  ~/.git/config
+|4,39,14,47,1641916987,"~/.git/config"
+-'  14  47  ~/.git/config
+|4,39,14,47,1641916987,"~/.git/config"
+-'  14  47  ~/.git/config
+|4,39,14,47,1641916937,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1641916882,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1641916882,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1641916882,"~/.git/config"
+-'  1  43  ~/Procfile
+|4,39,1,43,1641916739,"~/Procfile"
+-'  1  43  ~/Procfile
+|4,39,1,43,1641916739,"~/Procfile"
+-'  1  43  ~/Procfile
+|4,39,1,43,1641916739,"~/Procfile"
+-'  1  43  ~/Procfile
+|4,39,1,43,1641916739,"~/Procfile"
+-'  1  43  ~/Procfile
+|4,39,1,43,1641916739,"~/Procfile"
+-'  1  43  ~/Procfile
+|4,39,1,43,1641916739,"~/Procfile"
+-'  1  43  ~/Procfile
+|4,39,1,43,1641916739,"~/Procfile"
 -'  1  43  ~/Procfile
 |4,39,1,43,1641916739,"~/Procfile"
 -'  5  27  ~/.ssh/config
 |4,39,5,27,1641801246,"~/.ssh/config"
 -'  5  27  ~/.ssh/config
 |4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  5  27  ~/.ssh/config
+|4,39,5,27,1641801246,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
+-'  2  61  ~/.ssh/config
+|4,39,2,61,1641801155,"~/.ssh/config"
 -'  2  61  ~/.ssh/config
 |4,39,2,61,1641801155,"~/.ssh/config"
 -'  2  61  ~/.ssh/config
@@ -61,10 +147,94 @@
 |4,39,4,29,1641789943,"~/.ssh/config"
 -'  4  29  ~/.ssh/config
 |4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
+-'  4  29  ~/.ssh/config
+|4,39,4,29,1641789943,"~/.ssh/config"
 -'  5  9  ~/.ssh/config
 |4,39,5,9,1641789917,"~/.ssh/config"
 -'  5  9  ~/.ssh/config
 |4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789917,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
+-'  5  9  ~/.ssh/config
+|4,39,5,9,1641789885,"~/.ssh/config"
 -'  5  9  ~/.ssh/config
 |4,39,5,9,1641789885,"~/.ssh/config"
 -'  5  9  ~/.ssh/config
@@ -77,32 +247,16 @@
 |4,39,2,69,1641789787,"~/.ssh/config"
 -'  2  69  ~/.ssh/config
 |4,39,2,69,1641789787,"~/.ssh/config"
--'  5  9  ~/.ssh/config
-|4,39,5,9,1641785439,"~/.ssh/config"
--'  5  9  ~/.ssh/config
-|4,39,5,9,1641785439,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785413,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785353,"~/.ssh/config"
--'  1  0  ~/.ssh/config
-|4,39,1,0,1641785353,"~/.ssh/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/config
+	*	1641917235	0
+	"	13	46
+	^	13	47
+	.	13	46
+	+	14	47
+	+	13	46
 
 > ~/Procfile
 	*	1641916736	0
